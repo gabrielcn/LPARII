@@ -19,9 +19,7 @@ public class progjava {
         String email;
         String idade;
         //
-        int cont;
-        //
-        Scanner ent = new Scanner(System.in);
+         Scanner ent = new Scanner(System.in);
          System.out.println("Entre com o seu nome");
          System.out.print("Digite: ");
          nome = ent.next();
